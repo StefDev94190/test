@@ -1,0 +1,9 @@
+.carrerouge{
+    width: 150px;
+    height: 150px;
+    background: red;
+    border: 3px solid blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
