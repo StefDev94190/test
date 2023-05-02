@@ -1,2 +1,18 @@
 @import url(./components/global.css);
 @import url(./components/carouseel.css);
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.carrerouge{
+    width: 150px;
+    height: 150px;
+    background: red;
+    border: 3px solid blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
